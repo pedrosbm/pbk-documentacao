@@ -50,7 +50,7 @@ div header  {
 }
 
 main section {
-    padding-inline: 22rem;
+    padding-inline: 20rem;
     display: flex;
     flex-direction: column;
 }

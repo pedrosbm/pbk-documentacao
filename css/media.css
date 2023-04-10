@@ -70,6 +70,29 @@
     width: fit-content;
 }
 
+#icon   {
+    padding: 1rem;
+    margin-inline: 1.5rem;
+    width: 5rem;
+}
+
+.user-ui    {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 0;
+}
+
+.fake-user main {
+    background-color: aliceblue;
+    padding: 1rem;
+}
+
+.fake-user ul   {
+    width: fit-content;
+    margin-block: 1rem;
+    border-bottom: #66d4bb solid 1px;
+}
+
 .submit {
     text-transform: uppercase;
     border-radius: 1rem;

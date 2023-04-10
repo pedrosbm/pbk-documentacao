@@ -50,7 +50,7 @@ div header  {
 }
 
 main section {
-    padding-inline: 20rem;
+    padding-inline: 10rem;
     display: flex;
     flex-direction: column;
 }
@@ -73,4 +73,5 @@ form input    {
 
 img {
     width: auto;
+    object-fit: fill;
 }
